@@ -7,3 +7,4 @@ torch
 torchvision
 timm
 python-multipart
+onnxruntime
